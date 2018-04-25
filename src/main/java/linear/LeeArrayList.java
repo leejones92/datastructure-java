@@ -6,5 +6,8 @@ package linear;
  * @description
  **/
 public class LeeArrayList {
+    public static void main(String[] args){
+
+    }
 
 }
